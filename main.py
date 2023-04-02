@@ -69,4 +69,4 @@ scheduler = AsyncIOScheduler()
 scheduler.add_job(reset_db, "interval", timezone=utc, minutes=86400)
 scheduler.start()
 
-client.run("MTA5MTg5NjMzODYyMDM2Mjc4MQ.G3fvBO.bX2SCBiVefZ-tg3Lt-2vFIYZV80JtM32pSwOFY")
+client.run("")
